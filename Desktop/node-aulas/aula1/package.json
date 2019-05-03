@@ -1,0 +1,29 @@
+{
+  "name": "api_nodejs",
+  "version": "1.0.0",
+  "description": "Nodejs + Express + Mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anaclaraoscar/node-studies.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "npm",
+    "express",
+    "mongodb",
+    "api",
+    "studies",
+    "begginer"
+  ],
+  "author": "Ana Clara Oscar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anaclaraoscar/node-studies/issues"
+  },
+  "homepage": "https://github.com/anaclaraoscar/node-studies#readme"
+}
