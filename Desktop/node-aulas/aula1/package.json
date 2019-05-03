@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/anaclaraoscar/node-studies/issues"
   },
-  "homepage": "https://github.com/anaclaraoscar/node-studies#readme"
+  "homepage": "https://github.com/anaclaraoscar/node-studies#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
